@@ -2,7 +2,7 @@
 
 ## A app to keep track your daily task
 
-### Link:
+### Visit:
  > https://shrouded-gorge-84780.herokuapp.com/
 
 ## Features
