@@ -3,7 +3,7 @@
 ## A app to keep track your daily task
 
 ### Visit:
- > https://shrouded-gorge-84780.herokuapp.com/
+ > https://today-todo-list.herokuapp.com/
 
 ## Features
 1. Basic CRUD operation Status.
